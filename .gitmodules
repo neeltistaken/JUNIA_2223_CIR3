@@ -1,3 +1,5 @@
 [submodule "Électronique Numérique/the-elec-simon"]
 	path = Électronique Numérique/the-elec-simon
 	url = git@github.com:Applemaniac/the-elec-simon.git
+[submodule "the-elec-simon/"]
+	branch = main
