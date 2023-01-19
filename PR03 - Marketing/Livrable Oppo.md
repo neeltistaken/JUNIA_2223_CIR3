@@ -55,35 +55,73 @@ Dans les smartphones les plus vendus en 2022 dans le haut de gamme, on retrouve 
 
 ## PESTEL
 
-| Variables PESTEL | Exemples                                                                                                                   |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Politique        | Les relations sont tendues entre la Chine et l'occident. Les produits chinois sont fortement taxés en Occident             |
-| Économiquement   | Le pouvoir d'achat des européens à fortement chuté depuis ces derniers mois                                                |
-| Social           | Les utilisateurs de smartphones sont de plus en plus nombreux                                                              |
-| Technologique    | Oppo est l'une des seules marques à encore pousser l'innovation sur la scène (flagship killer) depuis la "mort" de Huawei. |
-| Ecologique       | Oppo Sustainability                                                                                                        |
-| Légal            | Oppo est une société française                                                                                             |
+### Politique
+
+La politique est devenue très importante sur le commerce des B/S En effet le ban de Huawei (dûe à la guerre commerciale entre la Chine et les États-Unis) en est une excellente démonstration, d'autres entreprises comme Google et Meta ont souvent eu des problèmes de régulation (notamment sur la protection des données).
+
+Toutes les entreprises techs sont impactées par cette guerre. Huawei a vu ses ventes chuter, plus généralement, toute entreprise vendant des smartphones est à la merci des régulateurs et des politiques qui peuvent impacter violemment leur activité. Les GAFAM sont régulièrement ciblés par certains états pour des pratiques déloyales de concurrence.
+
+Les états sont généralement plus attentifs sur la gestion de la sécurité et des données personnelles de leurs citoyens par les entreprises. La mondialisation force les entreprises à sous-traiter une partie de leur production dans des pays tiers. Cette sous-traitance les expose à des risques de changement de politique.
+
+### Économique
+
+La condition économique d'un pays impacte fortement l'achat et la vente d'un smartphone. Lorsque l'économie est mauvaise, les consommateurs auront tendance à essayer de conserver leur smartphone actuel le plus longtemps possible.
+
+En France, suite à la pandémie de Covid-19 et la guerre en Ukraine, le marché du smartphone est dans le rouge : la vente de smartphones a chuté de 9% au Q2 et de 12% au Q3 par rapport à l'été 2021. Cela va faire le cinquième trimestre de baisse consécutive.
+
+### Social
+
+Le smartphone est devenu un outil indispensable pour le quotidien des français. Depuis 2016, le taux d’équipement en téléphone mobile a atteint un plateau, oscillant autour de 94%, à un point près. En 2020, 94% des personnes de 12 ans et plus résidant en France métropolitaine disent disposer, personnellement, d’un téléphone mobile ou d’un smartphone.
+
+Les écarts sociodémographiques sont moindres : dans tous les groupes, au moins 79% des personnes ont un téléphone mobile.
+
+### Technologique
+
+Le marché du téléphone intelligent est un marché à concurrence rude. La plupart des entreprises sur ce secteur doivent innover pour fournir un avantage concurrenciel important. Apple dépense près de 5% de son chiffre d'affaire dans la recherche & développement, 7% pour LG et 10% pour Samsung.
+
+Les innovations technologiques embarquées sur les smartphones sont le moyen pour une entreprise de se démarquer et de sortir du lot.
+
+Un point important est sur le recyclage des équipements déjà existant pour produire les nouveaux modèles.
+
+### Écologique
+
+L'industrie du smartphone est loin d'être sans conséquence sur l'environnement. Les métaux rares sont souvent très difficile et polluants à extraire, les batteries sont également très nossives pour la planète. 
+
+La majorité des états taxe les entreprises polluantes et l'image de marque renvoyée est très mauvaise.
+
+La plupart des entreprises sur ce secteur essaie d'avoir une politique environnementale très poussée (neutre en carbone, 0 émission etc, utilisation d'une énergie 100% renouvelable...).
+
+Néanmoins, on remarque que le système de recyclage de smartphone se démocratise.
 
 ## SWOT
 
 ### Forces
 
-- Innovation
+- Grande capacité d'innovation
+- Excellente critique de la part de la presse spécialisée
+- Image de "flagship killer"
+- Qualité des produits
 - Prix de la presse en photographie
 
 ### Faiblesses
 
 - Mauvaise implémentation en France
+- Communication assez "brouillon"/peu consistante
+- Gammes méconnues
+- Marque d'origine chinoise "mal vu par les régulateurs"
 
 ### Opportunités
 
 - Disparition de Huawei
-- Partenariat avec des
+- Augmentation des ventes de smartphone
 
 ### Menaces
 
 - Taxation de l'Europe
-- Réglementation
+- Diminution du pouvoir d'achat des ménages
+- Réglementation RGPD
+- Norme de fréquence non respectée
+- Concurrent historique indétronable
 
 # Livrable 3 - Analyse interne
 

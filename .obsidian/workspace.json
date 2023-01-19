@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3269dcc6eda0b52d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "07709e0e6a0e400f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "7b34c1fcb0833dc7",
             "type": "leaf",
             "state": {
@@ -34,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7a2058133766fb0a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,15 +158,15 @@
   },
   "active": "7b34c1fcb0833dc7",
   "lastOpenFiles": [
+    "PR03 - Marketing/C00 - Introduction.md",
+    "PR03 - Marketing/Livrable Oppo.md",
     "README.md",
     "PR03 - Marketing/C03 - Stratégie Marketing.md",
     "PR03 - Marketing/L01 - Livrable Oppo.md",
-    "PR03 - Marketing/Livrable Oppo.md",
     "PR03 - Marketing/L03 - Livrable Oppo.md",
     "PR03 - Marketing/L02 - Livrable Oppo.md",
     "PR03 - Marketing/src/Pasted image 20230119150619.png",
     "PR03 - Marketing/src/Pasted image 20230119150341.png",
-    "PR03 - Marketing/src/Pasted image 20230119150509.png",
-    "Pasted image 20230119150210.png"
+    "PR03 - Marketing/src/Pasted image 20230119150509.png"
   ]
 }

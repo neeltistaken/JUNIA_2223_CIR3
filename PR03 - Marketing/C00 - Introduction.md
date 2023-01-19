@@ -53,3 +53,4 @@ L'art de vendre
 
 ## Chapitres
 [[C01 - Marché extérieur]]
+[[C03 - Stratégie Marketing]]
