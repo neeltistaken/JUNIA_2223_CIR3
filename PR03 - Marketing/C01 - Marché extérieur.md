@@ -99,8 +99,12 @@ Les facteurs du comportements sont internes:
 Bases de sources internes (archives) et externes (secondaires Google ou primaires via études de marché)
 
 PESTEL
+
+![[Pasted image 20230119150509.png]]
 HEXAGONE SECTORIEL
 SWOT
+
+![[Pasted image 20230119150619.png]]
 
 Livrable 2
 
