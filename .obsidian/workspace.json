@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PR03 - Marketing/Livrable Oppo.md",
+                "file": "PR04 - Communication et Comptabilité/Analyse Transactionnelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9462f3f159f36ea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PR04 - Communication et Comptabilité/Comptabilité.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "375f14f2718bfc89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PR04 - Communication et Comptabilité/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da1514216b10c699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PR03 - Marketing/Dialogue interne.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PR03 - Marketing/Livrable Oppo.md",
+                "file": "PR04 - Communication et Comptabilité/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PR03 - Marketing/Livrable Oppo.md",
+                "file": "PR04 - Communication et Comptabilité/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PR03 - Marketing/Livrable Oppo.md"
+                "file": "PR04 - Communication et Comptabilité/Untitled.md"
               }
             }
           },
           {
-            "id": "d26390d146a271da",
+            "id": "2d24e00293e406f9",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -156,17 +193,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7b34c1fcb0833dc7",
+  "active": "375f14f2718bfc89",
   "lastOpenFiles": [
-    "PR03 - Marketing/C00 - Introduction.md",
-    "PR03 - Marketing/Livrable Oppo.md",
-    "README.md",
+    "PR04 - Communication et Comptabilité/Comptabilité.md",
+    "PR04 - Communication et Comptabilité/Analyse Transactionnelle.pdf",
+    "PR04 - Communication et Comptabilité/Analyse Transactionnelle.md",
+    "PR03 - Marketing/Dialogue interne.md",
     "PR03 - Marketing/C03 - Stratégie Marketing.md",
-    "PR03 - Marketing/L01 - Livrable Oppo.md",
-    "PR03 - Marketing/L03 - Livrable Oppo.md",
-    "PR03 - Marketing/L02 - Livrable Oppo.md",
-    "PR03 - Marketing/src/Pasted image 20230119150619.png",
-    "PR03 - Marketing/src/Pasted image 20230119150341.png",
-    "PR03 - Marketing/src/Pasted image 20230119150509.png"
+    "PR03 - Marketing/Livrable Oppo.md",
+    "PR03 - Marketing/src/Pasted image 20230119153353.png",
+    "Présentation Oppo.md",
+    "PR02 - Informatique/Manuel d'installation.md",
+    "PR03 - Marketing/C01 - Marché extérieur.md"
   ]
 }

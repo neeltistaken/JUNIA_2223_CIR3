@@ -80,7 +80,7 @@ Les identifiants par défaut sont les suivants :
 | ----------------- | ---------------- |
 | Nom d'utilisateur | `theo@gmail.com` |
 | Mot de passe      | `test`           |
-
+²
 ## Licence
 
 Ce code contient des accès extrêmement confidentiels notamment pour la gestion de la base de données ou du serveur mail. L'équipe vous demande la plus grande vigiliance quant à la diffusion de ses informations.

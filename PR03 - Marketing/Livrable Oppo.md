@@ -51,13 +51,11 @@ Dans les smartphones les plus vendus en 2022 dans le haut de gamme, on retrouve 
 2. Samsung Galaxy S22 Ultra
 3. Google Pixel 7 Pro
 
-## Environnement
-
 ## PESTEL
 
 ### Politique
 
-La politique est devenue très importante sur le commerce des B/S En effet le ban de Huawei (dûe à la guerre commerciale entre la Chine et les États-Unis) en est une excellente démonstration, d'autres entreprises comme Google et Meta ont souvent eu des problèmes de régulation (notamment sur la protection des données).
+La politique est devenue très importante sur le commerce des B/S. En effet le ban de Huawei (dûe à la guerre commerciale entre la Chine et les États-Unis) en est une excellente démonstration, d'autres entreprises comme Google et Meta ont souvent eu des problèmes de régulation (notamment sur la protection des données).
 
 Toutes les entreprises techs sont impactées par cette guerre. Huawei a vu ses ventes chuter, plus généralement, toute entreprise vendant des smartphones est à la merci des régulateurs et des politiques qui peuvent impacter violemment leur activité. Les GAFAM sont régulièrement ciblés par certains états pour des pratiques déloyales de concurrence.
 
@@ -93,6 +91,24 @@ La plupart des entreprises sur ce secteur essaie d'avoir une politique environne
 
 Néanmoins, on remarque que le système de recyclage de smartphone se démocratise.
 
+# Livrable 3 - Analyse interne
+
+## Références internes
+
+### Gammes
+
+![[Pasted image 20230119153353.png]]
+
+## R&C
+
+#### Ressources
+
+- Humains : Designer, UX Designer
+
+#### Compétences
+
+- Software : UX
+
 ## SWOT
 
 ### Forces
@@ -102,6 +118,7 @@ Néanmoins, on remarque que le système de recyclage de smartphone se démocrati
 - Image de "flagship killer"
 - Qualité des produits
 - Prix de la presse en photographie
+- Bon rapport qualité/prix
 
 ### Faiblesses
 
@@ -123,33 +140,15 @@ Néanmoins, on remarque que le système de recyclage de smartphone se démocrati
 - Norme de fréquence non respectée
 - Concurrent historique indétronable
 
-# Livrable 3 - Analyse interne
-
-## Références internes
-
-### Gammes
-
-![[Pasted image 20230119153353.png]]
-
-## Chaîne de valeur
-
-## R&C
-
-#### Ressources
-
-- Humains : Designer, UX Designer
-
-#### Compétences
-
-- Software : UX
-
-## VRIN
-
 # Livrable 4 - Stratégie marketing
 
 ## Cible client
 
+La cible client de Oppo semble être des utilisateurs plutôt averti. On ne trouve que très peu de smartphone Oppo dans les boutiques physiques.
+
 ## Stratégie d'entreprise
+
+Oppo semble vouloir s'étendre en France
 
 ## Positionnement
 

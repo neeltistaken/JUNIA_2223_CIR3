@@ -1,5 +1,6 @@
 [
   "table-editor-obsidian",
   "mermaid-tools",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-git"
 ]
